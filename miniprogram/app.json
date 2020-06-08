@@ -22,5 +22,17 @@
     "navigationBarTextStyle": "black"
   },
   "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color": "#000000",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "12"
+
+    }, {
+      "pagePath": "pages/im/im",
+      "text": "34"
+
+    }]
+  },
   "style": "v2"
 }

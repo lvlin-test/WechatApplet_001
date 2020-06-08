@@ -13,7 +13,7 @@
 		"showShadowRootInWxmlPanel": true,
 		"scopeDataCheck": false,
 		"enhance": true,
-		"useCompilerModule": false
+		"useCompilerModule": true
 	},
 	"appid": "wxb0ac4593fcab8ed6",
 	"projectname": "WechatApplet_002",
